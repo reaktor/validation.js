@@ -2,8 +2,14 @@
 
 Javascript input validation library based on Reactive Extensions (Rx) for Javascript.
 
-TODO:
+## Installation and requirements
 
-- examples
-- setup
+Include validation.js along with the following:
 
+- jquery.js
+- rx.js
+- rx.jQuery.js
+
+## TODO
+
+- License
